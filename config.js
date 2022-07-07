@@ -37,23 +37,23 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Kami-sama'
+global.WM = 'REF BOTZ'
 global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
-global.linkig = 'https://www.instagram.com/ahmdlui'
+global.linkig = 'https://www.instagram.com/asyrafsixyouu'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@ahmdlui'
+global.bodlink = '@asyrafsixyoui'
 
-global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
+global.wait = '_*Loading ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
 global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/ahmdlui"
+global.urlnya = "https://www.instagram.com/asyrafsixyouu"
 
 //============= callButtons ============//
-global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.dtc = 'Ref Botz'
+global.phn = '+62 819-4694-5315'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
